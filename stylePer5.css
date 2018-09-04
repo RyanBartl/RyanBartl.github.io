@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif, fantasy, cursive;
+    background-color:rgb(200,200,200);
+    font-size: 31px;
+    line-height:2;
+    color:red;
+}
+
+h1{
+    background-color:blue;
+    color:yellow;
+    
+}

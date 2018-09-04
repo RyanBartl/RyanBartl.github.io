@@ -1,0 +1,102 @@
+body{
+    font-family: comic, times,helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    background-color: rgb(238,232,170);
+}
+
+
+
+header{
+    background: rgb(90,90,90);
+    color:white;
+    max-height: 100px;
+    
+}
+
+header h1{
+    float: none;
+    margin-top: 26px;
+    
+}
+
+nav{
+    float: right;
+    margin-top: -50px;
+    
+}
+
+header li{
+    
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    color:white;
+    
+}
+
+header a{
+    text-decoration:none;
+    color: black;
+    text-transform: uppercase;
+    
+}
+#showcase{
+    
+    text-align: center;
+    min-height: 250px;
+    color:black;
+}
+#showcase h1{
+    color:Black;
+    float: none;
+    text-align: center;
+}
+
+#Lebron{
+    margin-top: 100px;
+    
+}
+
+.ThumbsUp{
+    float: none;
+    width: 100%;
+    
+}
+
+
+footer{
+    background-color: rgb(90,90,90);
+    color: black;
+    margin-top:-400px;
+ 
+    
+    
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    
+    
+}
+
+
+header a:hover{
+   color: Yellow;
+   font-weight: bold;
+}
+
+
+.highlight{
+    color: White;
+    
+        
+    }
+
+div{
+    float: none;
+    margin-bottom: 500px;
+}
